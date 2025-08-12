@@ -23,5 +23,4 @@ CollegeConnect is a web-based student grievance portal designed to facilitate se
 
 
 
-*Target Audience:* College students, administrators, and faculty members.
-
+*Target Audience:* College students, administrators, and faculty members
