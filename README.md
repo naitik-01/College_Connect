@@ -12,7 +12,7 @@ CollegeConnect is a web-based student grievance portal designed to facilitate se
 - Complaint categorization and tracking
 - Anonymous submission option
 - Admin dashboard for efficient issue resolution
-- Notification system for updates
+- Notification system for updates.
 
 
 *Goals:*
